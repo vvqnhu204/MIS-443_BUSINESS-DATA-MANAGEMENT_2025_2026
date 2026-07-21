@@ -14,17 +14,17 @@ The project encompasses building the database schema, defining relationships, im
 
 ## 📂 Folder Structure
 MIS443_VanVuQuynhNhu_2232300079_School/
- codes:
- 01_create_database.sql
- 02_create_tables_relationships.sql
- 03_insert_data.sql
- 04_questions_01_30.sql
+* codes:
+* 01_create_database.sql
+* 02_create_tables_relationships.sql
+* 03_insert_data.sql
+* 04_questions_01_30.sql
 
- data:
-SCHOOL_courses.csv
-SCHOOL_enrollments.csv
-SCHOOL_professors.csv
-SCHOOL_students.csv
+* data:
+* SCHOOL_courses.csv
+* SCHOOL_enrollments.csv
+* SCHOOL_professors.csv
+* SCHOOL_students.csv
 
-report: MIS443_VanVuQuynhNhu_2232300079_School_Report.docx
+* report: MIS443_VanVuQuynhNhu_2232300079_School_Report.docx
 
